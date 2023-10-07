@@ -1,4 +1,4 @@
-const words = ["javascript", "programming", "developer", "computer", "website"];
+const words = ["ronaldo", "neymar", "messi", "kante", "pogba"];
 let selectedWord = words[Math.floor(Math.random() * words.length)];
 const wordDisplay = document.getElementById("word-display");
 const letterInput = document.getElementById("letter-input");
