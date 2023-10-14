@@ -62,3 +62,10 @@ h1 {
 #restart-button:hover {
     background-color: #555;
 }
+
+@media (max-height: 750px) {
+    .main {
+        /* do something.. */
+        height: auto;
+    }
+}
